@@ -17,7 +17,7 @@
 
 | read1 | 
 |-------|
-<<<<<<< HEAD
+
 ## new line 
-=======
->>>>>>> 0ce18d94acf5d1bd3fead8de3e17b73f9cd12268
+
+
